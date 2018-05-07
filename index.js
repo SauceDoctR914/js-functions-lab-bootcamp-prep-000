@@ -1,5 +1,5 @@
 // write your code below!
-function one (){
+function happyHolidays (){
   return "Happy Holidays!";
 }
 function two (name) {
