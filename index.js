@@ -2,9 +2,9 @@
 function one (){
   return "Happy Holidays!";
 }
-function two (num) {
-  return num + 1;
+function two (name) {
+  return `Happy holidays, ${name}!`
 }
-function three (num, digit) {
+function three (holiday, digit) {
   return num + digit;
 }
