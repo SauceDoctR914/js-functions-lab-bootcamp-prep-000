@@ -5,6 +5,6 @@ function one (){
 function two (name) {
   return `Happy holidays, ${name}!`
 }
-function three (holiday, digit) {
+function three (holiday, name) {
   return num + digit;
 }
